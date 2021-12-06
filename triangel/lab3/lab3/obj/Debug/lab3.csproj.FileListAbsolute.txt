@@ -1,0 +1,7 @@
+C:\CHDTU\OOP\Металап\lab3\lab3\bin\Debug\lab3.exe.config
+C:\CHDTU\OOP\Металап\lab3\lab3\bin\Debug\lab3.exe
+C:\CHDTU\OOP\Металап\lab3\lab3\bin\Debug\lab3.pdb
+C:\CHDTU\OOP\Металап\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\CHDTU\OOP\Металап\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\CHDTU\OOP\Металап\lab3\lab3\obj\Debug\lab3.exe
+C:\CHDTU\OOP\Металап\lab3\lab3\obj\Debug\lab3.pdb
