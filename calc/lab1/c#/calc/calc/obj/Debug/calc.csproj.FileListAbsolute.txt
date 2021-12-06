@@ -1,0 +1,10 @@
+C:\CHDTU\OOP\Металап\lab1\c#\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+C:\CHDTU\OOP\Металап\lab1\c#\calc\calc\obj\Debug\calc.Form1.resources
+C:\CHDTU\OOP\Металап\lab1\c#\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\CHDTU\OOP\Металап\lab1\c#\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\CHDTU\OOP\Металап\lab1\c#\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\CHDTU\OOP\Металап\lab1\c#\calc\calc\bin\Debug\calc.exe.config
+C:\CHDTU\OOP\Металап\lab1\c#\calc\calc\bin\Debug\calc.exe
+C:\CHDTU\OOP\Металап\lab1\c#\calc\calc\bin\Debug\calc.pdb
+C:\CHDTU\OOP\Металап\lab1\c#\calc\calc\obj\Debug\calc.exe
+C:\CHDTU\OOP\Металап\lab1\c#\calc\calc\obj\Debug\calc.pdb
